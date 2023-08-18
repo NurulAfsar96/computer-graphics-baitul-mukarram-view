@@ -21,6 +21,11 @@ In a static context, three separate views are displayed. These are
 
 ![BM_Rain](https://github.com/NurulAfsar96/computer-graphics-baitul-mukarram-view/assets/90999889/7af4c064-2fa9-4c34-9bc6-b802aa37c59b)
 
+## Tools Used
+
+- **IDE :** CodeBlocks
+- **Language :** C++
+- **Library :** OpenGL
 
 ## Interaction with Program
 We can have an interaction with this project using popular input device like mouse and key board are used to interact with this program.
